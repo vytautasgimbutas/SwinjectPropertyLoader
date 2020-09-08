@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwinjectPropertyLoader",
-            dependencies: ["Swinject", "Quick"],
+            dependencies: ["Swinject"],
             path: "Sources"
         ),
     ]
