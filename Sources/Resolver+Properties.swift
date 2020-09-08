@@ -7,6 +7,7 @@
 //
 
 import Swinject
+import Foundation
 
 private struct AssociatedKeys {
     fileprivate static var properties: UInt8 = 0

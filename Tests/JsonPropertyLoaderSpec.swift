@@ -10,7 +10,7 @@ import Quick
 import Nimble
 import Swinject
 import SwinjectPropertyLoader
-
+import Foundation
 
 class JsonPropertyLoaderSpec: QuickSpec {
     override func spec() {

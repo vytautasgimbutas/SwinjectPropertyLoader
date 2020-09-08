@@ -10,7 +10,7 @@ import Quick
 import Nimble
 import Swinject
 import SwinjectPropertyLoader
-
+import Foundation
 
 class PlistPropertyLoaderSpec: QuickSpec {
     override func spec() {
